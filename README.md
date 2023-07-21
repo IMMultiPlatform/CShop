@@ -1,39 +1,37 @@
-# 电商-商城
+# CShop商城
 
 #### 介绍
-{**以下是 Gitee 平台说明，您可以替换此简介**
-Gitee 是 OSCHINA 推出的基于 Git 的代码托管平台（同时支持 SVN）。专为开发者提供稳定、高效、安全的云端软件开发协作平台
-无论是个人、团队、或是企业，都能够用 Gitee 实现代码托管、项目管理、协作开发。企业项目请看 [https://gitee.com/enterprises](https://gitee.com/enterprises)}
+CShop电商系统，包括：多店铺、商城购物、多规格SKU、会员、秒杀等功能。配有店铺管理系统、骑手管理系统、运营管理系统。终端支持：Android-App、iOS-App、微信小程序。该系统源码支持定制和二次开发。
+#### 如果对您有帮助，您可以点击右上角“Star”支持一下，您的关注是我们最大的动力
+#### 官网
+？？
+#### 微信公众号
+？？
+#### 如何联系我们
+官方QQ群：
+
+  星辰科技-CShop①群：830238444
+
+如需购买商业版源码，请联系商务微信
+
+![vivi企业微信](https://gitee.com/immultiplatform/CShop/blob/master/images/officialAccounts/vivi.jpg)
 
 #### 软件架构
-软件架构说明
+移动端：Flutter、Android、iOS
+
+服务端：spring boot、spring oauth2.0、mybatis、redis
+
+<!--#### 文档、教程-->
+<!--#### 开源体验版-->
+<!--#### 技术选型 技术、版本、说明-->
+
+#### 相关截图
+
+#####1.移动端截图
+？？
+
+#####2.后端截图
+？？
 
 
-#### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
