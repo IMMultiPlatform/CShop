@@ -31,6 +31,7 @@ CShop电商系统，包括：多店铺、商城购物、多规格SKU、会员、
 #### 相关截图
 
 #####1.移动端截图
+
 <img src="https://img.laibokj.com/CShop/screenshot/screenshot/main.png" width="45%">
 <img src="https://img.laibokj.com/CShop/screenshot/screenshot/liRen.png" width="45%" height="84%">
 <img src="https://img.laibokj.com/CShop/screenshot/screenshot/meiShi.png" width="45%" height="78%">
@@ -42,6 +43,7 @@ CShop电商系统，包括：多店铺、商城购物、多规格SKU、会员、
 <img src="https://img.laibokj.com/CShop/screenshot/screenshot/shop_main.png" width="45%" height="100%">
 <img src="https://img.laibokj.com/CShop/screenshot/screenshot/shop_comment.png" width="45%" height="100%">
 #####2.后端截图
+
 <img src="https://img.laibokj.com/CShop/managementSystem/managementSystem/main.png">
 <img src="https://img.laibokj.com/CShop/managementSystem/managementSystem/goods.png">
 <img src="https://img.laibokj.com/CShop/managementSystem/managementSystem/orders.png">
